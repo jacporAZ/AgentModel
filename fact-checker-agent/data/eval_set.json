@@ -1,0 +1,10 @@
+[
+  {
+    "query": "capital of france",
+    "expected_keywords": ["Paris"]
+  },
+  {
+    "query": "latest ai news",
+    "expected_provider": "news"
+  }
+]
